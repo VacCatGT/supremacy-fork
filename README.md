@@ -13,4 +13,4 @@ Compile in Release x86
 
 --- Information on making of the hack
 
-The cheat was mainly composed of getting skeet users to dump the cheat modules, and then reversing the cheat(skeet), and implementing their functions into Supremacy. The menu was designed to make esoterik mad, and ultimately ending up cracking the cheat due to lack of modern security.
+The cheat was mainly composed of getting skeet users to dump the cheat modules, and then reversing the cheat(skeet), and implementing their functions into Supremacy. The menu was designed to make esoterik mad, and he ultimately ending up cracking the cheat due to lack of modern security.
