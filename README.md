@@ -8,7 +8,7 @@ It's 90% a skeet paste, and the source should be good for people to learn from. 
 
 --- Note for morons
 
-NOTE TO MORONS: Compile in Release x86 -- some morons need this information. 
+Compile in Release x86
 "Previous IPDB not found, fall back to full compilation" is normal, it takes awhile to compile, just wait and patient.  
 
 --- Information on making of the hack
